@@ -1,6 +1,6 @@
 # devcircle
 
-## A couple of things to consider while thinking for this project.
+## Design considerations
 
 1. Let's make sure we comply to this: https://12factor.net
 2. Starterkits? :https://developers.google.com/web/tools/polymer-starter-kit
