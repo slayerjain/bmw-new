@@ -7,3 +7,9 @@
 3. I'm still evaluating if this will simplify or complicated the backend: https://kubernetes.io/docs/concepts/services-networking/service/
 4. Google's progressive web app guidelines: https://developers.google.com/web/progressive-web-apps 
 5. Maintain an increasing score on https://github.com/GoogleChrome/lighthouse
+
+### Questions to ponder
+
+1. Is this the simplest approach?
+2. Potential impact?
+3. Which facebook technologies? and why/why not?
