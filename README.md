@@ -1,6 +1,6 @@
-# devcircle
+# Project bmw
 
-## Design considerations
+### Design considerations
 
 1. Let's make sure we comply to this: https://12factor.net
 2. Starterkits? :https://developers.google.com/web/tools/polymer-starter-kit
